@@ -1,5 +1,5 @@
 {
-    "root": "HELLO360/",
+    "root": "Hello360/",
     "routes": {
         "/**": "index.html"
     }
